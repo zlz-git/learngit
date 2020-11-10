@@ -5,5 +5,6 @@
  git has a mutable index called stage.
  git tracks changes of files.
 Creating a new branch is quick and simple.
-2020/11/10 not zlz
+2020/11/10 not zlz.
+git commit without -m
  
