@@ -1,4 +1,8 @@
 feature -vulcan
 
 dev test
+<<<<<<< HEAD
 dev gittest 
+=======
+dev gittest succeed
+>>>>>>> b37621e20bee4cea2e93629ee9d1f5491be058f9
